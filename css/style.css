@@ -778,7 +778,11 @@
 	#logo
 	{
 	}
-	
+		#logo img
+		{
+			
+			max-width: 400px;
+		}
 		#logo h1
 		{
 			font-weight: 900;
@@ -790,6 +794,7 @@
 		{
 			color: #eee;
 			color: rgba(255,255,255,0.5);
+			margin-top: -40px;
 			text-transform: uppercase;
 		}
 
